@@ -1,0 +1,39 @@
+
+HamAndMushroom Pizza with Price: £13.70 
+ extra cheese: 5 
+extra tomato sauce: 6 
+extra ham: 6 
+extra mushroom: 6 
+extra pepperoni: 6 
+
+Plain Burger with Price: £81.10 
+Extra cheese: 20 
+Extra Fried Onions: 12 
+Extra Bacon: 32 
+
+HamAndMushroom Pizza with Price: £8.90 
+ extra cheese: 2 
+extra tomato sauce: 0 
+extra ham: 1 
+extra mushroom: 2 
+extra pepperoni: 2 
+
+Plain Burger with Price: £13.40 
+Extra cheese: 3 
+Extra Fried Onions: 3 
+Extra Bacon: 3 
+
+Margherita Pizza with Price: £8.50 
+ extra cheese: 1 
+extra tomato sauce: 1 
+extra ham: 1 
+extra mushroom: 1 
+extra pepperoni: 1 
+
+Margherita Pizza with Price: £8.50 
+ extra cheese: 1 
+extra tomato sauce: 1 
+extra ham: 1 
+extra mushroom: 1 
+extra pepperoni: 1 
+
